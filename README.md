@@ -2,8 +2,7 @@
 
 <!--
 **jamal-pb95/jamal-pb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working as a Software Developer at <a href="https://nationalpolymer.net/" target="_blank">Npoly Group</a>
 - 🌱 I’m currently learning Dart &amp; Flutter
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter & React
 - 📫 How to reach me: jamal.pb95@gmail.com
 - ⚡ Fun fact: Learning, Bloging, Hangout with Family & Friends etc.
--->
+
