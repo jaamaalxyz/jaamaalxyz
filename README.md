@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**jamal-pb95/jamal-pb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+This is <b>Md. Jamal Uddin</b>. who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at <a href="" target="_blank">National Polymer Group</a> as a *Software Developer*. I am building web and mobile applications using ReactJS, TailwindCSS, GatsbyJS, Dart & Flutter, etc. I have real world experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
-- 🔭 I’m currently working as a Software Developer at <a href="https://nationalpolymer.net/" target="_blank">Npoly Group</a>
-- 🌱 I’m currently learning Dart &amp; Flutter
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Flutter & React
-- 📫 How to reach me: jamal.pb95@gmail.com
-- ⚡ Fun fact: Learning, Bloging, Hangout with Family & Friends etc.
-
+- 💬 Ask me about anything about life, web and mobile technologies.
+- 👨🏻‍💻 View my Website here => https://jaamaal.com/ 
+- ✍ View my Blogs here => https://medium.com/@jamal.pb95/ and https://dev.to/jamal_uddin95
+- 📫 Reach me here => jamal.pb95@gmail.com 
+- ⚡ Fun facts => I love reading 📖📚, Passing free time on 🏞, Listening Quran 🎧 and Hangouts with 👨‍👩‍👧‍👦. 
