@@ -11,4 +11,4 @@ This is <b>Md. Jamal Uddin</b>. who :heart: *Web and Mobile App Development*.ðŸŒ
 ### Find Me on the Web:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jamal-pb95/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jamal-pb95/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jamal_uddin95?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/jamal_uddin95?label=Follow&style=social)
