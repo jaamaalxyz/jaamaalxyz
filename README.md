@@ -1,8 +1,8 @@
 ### Hi there! 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jamal-pb95)
 
-This is <b>Md. Jamal Uddin</b>. who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at <a href="" target="_blank">National Polymer Group</a> as a *Software Developer*. I am building web and mobile applications using ReactJS, GatsbyJS, Dart & Flutter, etc. I have real world experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+This is <b>Md. Jamal Uddin</b>. who :heart: to develop *Web and Mobile Applications*.🌐📲 I am currently working at <a href="" target="_blank">National Polymer Group</a> as a *Software Developer*. I am building `web` and `mobile` applications using `ReactJS`, `GatsbyJS`, `Dart` & `Flutter`, etc. I have real world experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
-- 💬 Ask me anything about life, web and mobile technologies.
+- 💬 Ask me anything about `life`, `web` and `mobile` technologies.
 - 👨🏻‍💻 View my `Portfolio` here => https://jaamaal.com/ 
 - ✍ View my `Blogs` here => `Bangla:` https://medium.com/@jamal.pb95/ and `English`: https://dev.to/jamal_uddin95
 - 📫 Reach me here => `jamal.pb95@gmail.com` 
