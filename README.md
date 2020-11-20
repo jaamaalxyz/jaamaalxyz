@@ -4,7 +4,7 @@ This is <b>Md. Jamal Uddin</b>. who :heart: to develop *Web and Mobile Applicati
 
 - 💬 Ask me anything about `life`, `web` and `mobile` technologies.
 - 👨🏻‍💻 View my `Portfolio` here => https://jaamaal.com/ 
-- ✍ View my `Blogs` here => `Bangla:` https://medium.com/@jamal.pb95/ and `English`: https://dev.to/jamal_uddin95
+- ✍ View my `Blogs` here => `Bangla:` https://jaamaal.medium.com/ and `English`: https://dev.to/jamal_uddin95
 - 📫 Reach me here => `jamal.pb95@gmail.com` 
 - ⚡ Fun facts => I love reading 📖📚, Listening Quran 🎧 and Hangouts with 👨‍👩‍👧‍👦. 
 
