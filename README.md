@@ -3,7 +3,7 @@
 This is <b>Md. Jamal Uddin</b>. who is deeply passionate about data analysis and currently working at <a href="" target="_blank">National Polymer Industries Limited</a> as a *Software Developer*. He is building `web` and `mobile` applications using `JavaScript`, `WordPress`, `Java` & `Kotlin`, and analysis data with `SQL`, `Excel`, `Oracle BI`, `Python`, `Alteryx` etc. He has real world experience working with a range of different languages and frameworks and he is always looking for opportunities to work on something new.
 
 - 👨🏻‍💻 View my `Portfolio` here => https://jaamaal.com/ 
-- ✍ View my `Blogs` here => `Bangla:` https://jaamaal.medium.com/ and `English`: https://dev.to/jamal_uddin95
+- ✍ View my `Blogs` here => `Bangla:` https://jaamaal.medium.com/ and `English`: https://dev.to/jaamaal
 - 📫 Reach me here => `jamal.pb95@gmail.com` 
 - ⚡ Fun facts => I love reading 📖📚, Listening Quran 🎧 and Hangouts with 👨‍👩‍👧‍👦. 
 
