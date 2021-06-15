@@ -9,17 +9,13 @@
 #### 😂 a tiny joke for you that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br/>
-
 ## 📕 Latest Blog Posts
 
 - [Main Components of a Computer Systems](https://dev.to/jaamaal/main-components-of-a-computer-systems-3j4g)
 - [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
 - [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
 
-<br />
-[![See My DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jaamaal)
-<br />
+![See My DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jaamaal)
 
 ## Languages:
 
