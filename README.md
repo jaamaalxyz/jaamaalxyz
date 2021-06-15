@@ -4,18 +4,7 @@
 
 - 🌱 I’m currently learning JS related stuff
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books and write blogs
-
-#### 😂 a tiny joke for you that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 📕 Latest Blog Posts
-
-- [Main Components of a Computer Systems](https://dev.to/jaamaal/main-components-of-a-computer-systems-3j4g)
-- [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
-- [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
-
-[DEV Community Profile](https://dev.to/jaamaal) | [Medium.com Profile](https://jaamaal.medium.com)
+- ⚡ Fun fact: I love to [read books](https://goodreads.com/jaamaal) and [write blogs](#latest-blog-posts)
 
 ## Languages:
 
@@ -47,6 +36,17 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][netlify]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][vercel]
+
+#### 😂 a tiny joke for you that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 📕 Latest Blog Posts
+
+- [Main Components of a Computer Systems](https://dev.to/jaamaal/main-components-of-a-computer-systems-3j4g)
+- [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
+- [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
+
+[DEV Community Profile](https://dev.to/jaamaal) | [Medium.com Profile](https://jaamaal.medium.com)
 
 ## Find Me:
 
