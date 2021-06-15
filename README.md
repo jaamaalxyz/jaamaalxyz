@@ -15,7 +15,7 @@
 - [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
 - [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
 
-![See My DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jaamaal)
+![[See My DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jaamaal)
 
 ## Languages:
 
