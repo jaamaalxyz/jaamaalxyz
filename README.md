@@ -6,9 +6,20 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and write blogs
 
-### 😂 Here is a random joke that'll make you laugh!
+#### 😂 a tiny joke for you that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<br/>
+
+## 📕 Latest Blog Posts
+
+- [Main Components of a Computer Systems](https://dev.to/jaamaal/main-components-of-a-computer-systems-3j4g)
+- [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
+- [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
+
+<br />
+[![See My DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jaamaal)
+<br />
 
 ## Languages:
 
@@ -40,15 +51,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][netlify]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][vercel]
-
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Build a MERN stack todo app using react-query](https://dev.to/ashiqcseworld/build-a-mern-stack-todo-app-using-react-query-59e6)
-- [Different ways of state management in a react app](https://dev.to/ashiqcseworld/different-ways-of-state-management-in-a-react-app-1hdf)
-- [Difference between innerText, textContent, innerHtml and outerHtml](https://dev.to/ashiqcseworld/difference-between-innertext-textcontent-and-innerhtml-2d8m)
-<!-- BLOG-POST-LIST:END -->
 
 ## Find Me:
 
