@@ -1,5 +1,4 @@
-### Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
+### Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
 
 ## I'm a Software Developer!!
 
@@ -7,19 +6,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and write blogs
 
-## 😂 Here is a random joke that'll make you laugh!
+### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-### Find Me:
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jamal_uddin95?label=Follow&style=social)](https://twitter.com/jaamaal95)
-
-<br />
-
-### Languages:
+## Languages:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][html]
@@ -51,13 +42,19 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][vercel]
 
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a MERN stack todo app using react-query](https://dev.to/ashiqcseworld/build-a-mern-stack-todo-app-using-react-query-59e6)
 - [Different ways of state management in a react app](https://dev.to/ashiqcseworld/different-ways-of-state-management-in-a-react-app-1hdf)
 - [Difference between innerText, textContent, innerHtml and outerHtml](https://dev.to/ashiqcseworld/difference-between-innertext-textcontent-and-innerhtml-2d8m)
 <!-- BLOG-POST-LIST:END -->
+
+## Find Me:
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jaamaal95?label=Follow&style=social)](https://twitter.com/jaamaal95)
 
 
 ---
