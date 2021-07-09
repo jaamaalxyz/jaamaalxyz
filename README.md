@@ -16,7 +16,7 @@
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-3178C6?style=for-the-badge&logo=wordpress&logoColor=lightblue)
+![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=greyblue)
 
 ### Frameworks and Libraries
 
@@ -26,6 +26,7 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-3178C6?style=for-the-badge&logo=wordpress&logoColor=lightblue)
 <!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
 <!-- ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
