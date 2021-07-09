@@ -1,8 +1,8 @@
 ### Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
 
-## I'm a Software Developer!!
+## Learner & Explorer 🌐📊📱☕️
 
-- 🌱 I’m currently learning JS related stuff
+- 🌱 I’m currently learning JS & PHP related stuff
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to [read books](https://goodreads.com/jaamaal) and [write blogs](#latest-blog-posts)
 
