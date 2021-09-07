@@ -70,5 +70,10 @@
 
 
 ---
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true)
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=jaamaal95&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
+
+</p>
 
