@@ -2,9 +2,11 @@
 
 ## Learner & Explorer 🌐📊📱☕️
 
-- 🌱 I’m currently learning JS & PHP related stuff
+- 🌱 I’m currently learning MERN Stack Development
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to [read books](https://goodreads.com/jaamaal) and [write blogs](#latest-blog-posts)
+- 🏠 Website: [jaamaal.com](https://jaamaal.com/)
+- ✉ Email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com)
 
 ## 🛠️ Skills
 
