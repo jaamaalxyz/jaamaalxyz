@@ -17,7 +17,8 @@
 ### Backend as Service: 
 `Firebase`, `Netlify`, `Vercel`, `Heroku`
 
-### Databases: `MongoDB`, `Oracle`, `MySQL`, `SQLite`
+### Databases: 
+`MongoDB`, `Oracle`, `MySQL`, `SQLite`
 
 ### 🖥️ Workspace: 
 - Primary Machine: `Windows`, 
