@@ -23,7 +23,7 @@
 `MongoDB`, `Oracle`, `MySQL`, `SQLite`
 
 ### 🖥️ Workspace: 
-- Primary Machine: `Windows`, 
+- Primary Machine: `Windows`
 - Secondary Machine: `Ubuntu`
 - Code Editor: `VS Code`
 
