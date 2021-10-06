@@ -1,4 +1,6 @@
-### Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
+
+# Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋
 
 ## Learner & Explorer 🌐📊📱☕️
 
