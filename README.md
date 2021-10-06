@@ -29,7 +29,7 @@
 - Secondary Machine: `Ubuntu`
 - Code Editor: `VS Code`
 
-## 📕 Latest Blog Posts
+## 📕 [Latest Blog Posts](latest-blog-posts)
 
 - [DEV Community Profile](https://dev.to/jaamaal)
 - [Medium.com Profile](https://jaamaal.medium.com)
