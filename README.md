@@ -13,10 +13,9 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=greyblue)
+<!-- ![java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=greyblue) -->
 
 ### Frameworks and Libraries
 
@@ -25,10 +24,13 @@
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next-dot-js&logoColor=FFFFFF)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-3178C6?style=for-the-badge&logo=wordpress&logoColor=lightblue)
-<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
+<!-- ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
+<!-- ![WordPress](https://img.shields.io/badge/WordPress-3178C6?style=for-the-badge&logo=wordpress&logoColor=lightblue) -->
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 <!-- ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express-dot-js&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS339933?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> Database
 
@@ -42,7 +44,7 @@
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-<!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
@@ -50,30 +52,15 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=lightblue)
 
-
-#### 😂 a tiny joke for you that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<!-- 
 ## 📕 Latest Blog Posts
 
-- [Main Components of a Computer Systems](https://dev.to/jaamaal/main-components-of-a-computer-systems-3j4g)
-- [Principles of Analytic Graphics](https://dev.to/jaamaal/principles-of-analytic-graphics-4mpi)
-- [Filtering Data with SQL](https://dev.to/jaamaal/filtering-data-with-sql-3gp1)
+- [DEV Community Profile](https://dev.to/jaamaal)
+- [Medium.com Profile](https://jaamaal.medium.com)
 
-[DEV Community Profile](https://dev.to/jaamaal) | [Medium.com Profile](https://jaamaal.medium.com)
- -->
 ## Find Me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jaamaal95?label=Follow&style=social)](https://twitter.com/jaamaal95)
 
-
----
-<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=jaamaal95&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
-
-</p>
-
