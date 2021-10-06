@@ -12,19 +12,19 @@
 
 ## 🛠️ Skills
 
-### Fronted: 
+### Fronted 
 `React`, `Redux`, `JavaScript`, `Next.js`, `Boostrap`, `Tailwind CSS`, `Sass`, `React Router`
 
-### Backend: 
+### Backend
 `Node.js`, `Express.js`
 
-### Backend as Service: 
+### Backend as a Service (BaaS) 
 `Firebase`, `Netlify`, `Vercel`, `Heroku`
 
-### Databases: 
+### Database
 `MongoDB`, `Oracle`, `MySQL`, `SQLite`
 
-### 🖥️ Workspace: 
+### 🖥️ Workspace
 - Primary Machine: `Windows`
 - Secondary Machine: `Ubuntu`
 - Code Editor: `VS Code`
@@ -34,7 +34,7 @@
 - [DEV Community Profile](https://dev.to/jaamaal)
 - [Medium.com Profile](https://jaamaal.medium.com)
 
-## Find Me:
+## Find Me on Social Media
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
