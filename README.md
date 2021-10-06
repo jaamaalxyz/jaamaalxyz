@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏠 Website: [jaamaal.com](https://jaamaal.com/)
 - ✉ Email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com)
-- ⚡ Fun fact: I love to [reading books](https://goodreads.com/jaamaal) and [write blogs](#latest-blog-posts)
+- ⚡ Fun fact: I love to [reading books](https://goodreads.com/jaamaal) and [write blogs](#-latest-blog-posts)
 
 ## 🛠️ Skills
 
@@ -29,7 +29,7 @@
 - Secondary Machine: `Ubuntu`
 - Code Editor: `VS Code`
 
-## 📕 [Latest Blog Posts](latest-blog-posts)
+## 📕 Latest Blog Posts
 
 - [DEV Community Profile](https://dev.to/jaamaal)
 - [Medium.com Profile](https://jaamaal.medium.com)
