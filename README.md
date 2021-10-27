@@ -31,8 +31,8 @@
 
 ## 📕 Latest Blog Posts
 
-- [DEV Community Profile](https://dev.to/jaamaal)
-- [Medium.com Profile](https://jaamaal.medium.com)
+- [DEV Community Profile](https://dev.to/jaamaal95)
+- [Medium.com Profile](https://jaamaal95.medium.com)
 
 ## Find Me on Social Media
 
