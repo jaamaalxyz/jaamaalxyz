@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🏠 Website: [jaamaal.com](https://jaamaal.com/)
 - ✉ Email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com)
-- ⚡ Favorite: More than anything I love to [reading books](https://goodreads.com/jaamaal95) and try to read 50+ books in a calender year.
+- ⚡ Favorite: More than anything else I love to [reading books](https://goodreads.com/jaamaal95) and try to read 50+ books in a calender year.
 
 ## 🛠️ Skills
 
