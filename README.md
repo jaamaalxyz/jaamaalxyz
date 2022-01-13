@@ -13,10 +13,10 @@
 ## 🛠️ Skills
 
 ### 💻 Fronted
-`React`, `Redux`, `JavaScript`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `React Router`
+`React`, `Redux`, `JavaScript`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `TypeScript`, `HTML/CSS`
 
 ### 🧮 Backend
-`Node.js`, `Express.js`
+`Node.js`, `Express.js`, `REST API Development`
 
 ### ☁️ Cloud based Backend Services:
 `Firebase`, `Netlify`, `Vercel`, `Heroku`
