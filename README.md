@@ -45,4 +45,4 @@
 
 ![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&layout=compact&show_icons=true&theme=github_dark&exclude_repo=bangla-programming-resources,diamondpriceprediction,LoanCalculator,zookeeper,polls)
