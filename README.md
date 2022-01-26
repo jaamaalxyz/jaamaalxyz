@@ -41,8 +41,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jaamaal95?label=Follow&style=social)](https://twitter.com/jaamaal95)
 
 ## 📊 Github Stat's
-<img src="https://github-readme-stats.vercel.app/api?username=jaamaal95&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&line_height=27&hide_border=true">
-
-![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&layout=compact&show_icons=true&theme=github_dark&hide=python)
+![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaamaal95&layout=compact&show_icons=true&theme=github_dark&hide=python)
