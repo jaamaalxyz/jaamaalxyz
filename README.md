@@ -42,3 +42,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaamaal95&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
+
+### 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaamaal95&theme=radical&no-frame=false&no-bg=false&margin-w=4)
