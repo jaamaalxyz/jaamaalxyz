@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 ### 💻 Fronted
-`React`, `Redux`, `JavaScript`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `TypeScript`, `HTML/CSS`
+`JavaScript`, `Typescript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `HTML/CSS`
 
 ### 🧮 Backend
 `Node.js`, `Express.js`, `REST API Development`
@@ -22,12 +22,12 @@
 `Firebase`, `Netlify`, `Vercel`, `Heroku`
 
 ### 🗃️ Database
-`MongoDB`, `Oracle`, `MySQL`, `SQLite`
+`MongoDB`, `Oracle`, `SQLite`
 
 ### 🖥️ Workspace
 - Primary Machine: `Windows`
 - Secondary Machine: `Ubuntu`
-- Code Editor: `VS Code`
+- Tools: `VS Code`, `Git`, `Github`
 
 ## 📕 Latest Blog Posts
 
