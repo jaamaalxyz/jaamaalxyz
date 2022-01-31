@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 ### 💻 Fronted
-`JavaScript`, `Typescript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `HTML/CSS`
+`JavaScript`, `TypeScript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `HTML/CSS`
 
 ### 🧮 Backend
 `Node.js`, `Express.js`, `REST API Development`
