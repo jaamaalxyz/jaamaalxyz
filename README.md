@@ -1,14 +1,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
 
-# Hi there, This is [Md. Jamal Uddin](https://jaamaal.com) 👋
+# Hi there, This is Md. Jamal Uddin 👋
 
 ## Learner & Explorer 🌐📊📱☕️
 
-- 🌱 I’m currently learning MERN Stack Development
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 Currently learning & Developing React.JS | TS | Node.js | Next.js | React Native Applications
+- 🥅 2022 Goals: Secret
 - 🏠 Website: [jaamaal.com](https://jaamaal.com/)
 - ✉ Email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com)
-- ⚡ Favorite: More than anything else I love to [reading books](https://goodreads.com/jaamaal95) and try to read 50+ books in a calender year.
+- ⚡ Favorite: More than anything else I love to [reading books](https://goodreads.com/jaamaal95)
 
 ## 🛠️ Skills
 
