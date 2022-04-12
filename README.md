@@ -13,12 +13,12 @@
 ## 🛠️ Skills
 
 ### 💻 Fronted
-`JavaScript`, `TypeScript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `Sass`, `HTML/CSS`
+`JavaScript`, `TypeScript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `React Native`
 
 ### 🧮 Backend
-`Node.js`, `Express.js`, `REST API Development`
+`Node.js`, `Express.js`, `REST APIs`
 
-### ☁️ Cloud based Backend Services:
+### ☁️ Cloud based BaaS:
 `Firebase`, `Netlify`, `Vercel`, `Heroku`
 
 ### 🗃️ Database
@@ -26,7 +26,7 @@
 
 ### 🖥️ Workspace
 - `Windows` is my primary OS and using `Ubuntu` on top of `WSL2`
-- Tools: `VS Code`, `Git`, `Github`
+- Tools: `VS Code`, `Git`, `Github`, `Android Studio`
 
 ## 📕 Latest Blog Posts
 
@@ -36,8 +36,8 @@
 ## 🔄 Find Me on Social Media
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jaamaal95?label=Follow&style=social)](https://twitter.com/jaamaal95)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
 
 ## 📊 Github Stat's
 ![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)  
