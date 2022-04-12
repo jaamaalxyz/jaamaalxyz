@@ -25,8 +25,7 @@
 `MongoDB`, `Oracle`, `SQLite`
 
 ### 🖥️ Workspace
-- Primary Machine: `Windows`
-- Secondary Machine: `Ubuntu`
+- `Windows` is my primary OS and using `Ubuntu` on top of `WSL2`
 - Tools: `VS Code`, `Git`, `Github`
 
 ## 📕 Latest Blog Posts
