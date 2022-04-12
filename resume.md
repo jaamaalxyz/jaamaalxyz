@@ -1,5 +1,5 @@
 # **Md. Jamal Uddin**
-Software Developer, currently building awesome stuff using ➡️ React.JS|TS|Node.js|Next.js|React Native
+Software Developer, currently building awesome stuff using ➡️ React.JS | TS | Node.js | Next.js | React Native
 
 
 ||: Email: **<jamal.pb95@gmail.com>** || Phone: **+880 1717 451209** || Website: **[jaamaal.com](jaamaal.com)** :||
