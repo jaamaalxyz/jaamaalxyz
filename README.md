@@ -1,43 +1,36 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
 
-# Hi there, This is Md. Jamal Uddin 👋
+## Hey there! This is Md. Jamal Uddin (@jaamaal)
 
-## Learner & Explorer 🌐📊📱☕️
+### 👨🏻‍💻 About Me
 
-- 🌱 Currently learning & Developing React.JS | TS | Node.js | Next.js | React Native Applications
-- 🥅 2022 Goals: Secret
-- 🏠 Website: [jaamaal.com](https://jaamaal.com/)
-- ✉ Email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com)
-- ⚡ Favorite: More than anything else I love to [reading books](https://goodreads.com/jaamaal95)
+- 🤔 &nbsp; Exploring new technologies and developing web & mobile applications.
+- 🎓 &nbsp; Undergrade Computer Science Student at IUS
+- 💼 &nbsp; Working as a Software Developer
+- 👨‍💻 &nbsp; Checkout my work at https://jaamaal.com
+- 📝 &nbsp; Try to write articles on [my blog](https://jaamaal.com/blog), [Dev.to](https://dev.to/jaamaal95) and [Medium.com](https://medium.com/@jaamaal95)
+- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
+- 📫 &nbsp; How to reach me: jamal.pb95@gmail.com
 
-## 🛠️ Skills
+### 🛠 Tech Stack
 
-### 💻 Fronted
-`JavaScript`, `TypeScript`, `React`, `Redux`, `Next.js`, `Chakra UI`, `Tailwind CSS`, `React Native`
+- 💻 &nbsp; JavaScript | TypeScript | Node.js | Express.js | Python | C++
+- 🌐 &nbsp; React | Redux| Next.js | Tailwind CSS | Chakra UI
+- 🛢 &nbsp; Oracle DB | MySQL | MongoDB
+- 🖥 &nbsp; VS Code | Ubuntu | Oracle Linux
 
-### 🧮 Backend
-`Node.js`, `Express.js`, `REST APIs`
+### 📊 Github Stat's
+![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)
 
-### ☁️ Cloud based BaaS:
-`Firebase`, `Netlify`, `Vercel`, `Heroku`
+[![](https://komarev.com/ghpvc/?username=jaamaal95&color=blue&label=Profile%20Views)](https://github.com/jaamaal95/jaamaal95)
+[![](https://img.shields.io/github/followers/jaamaal95?label=GitHub%20Followers)](https://github.com/jaamaal95)
 
-### 🗃️ Database
-`MongoDB`, `Oracle`, `SQLite`
+### 🤝🏻 Connect with Me
 
-### 🖥️ Workspace
-- `Windows` is my primary OS and using `Ubuntu` on top of `WSL2`
-- Tools: `VS Code`, `Git`, `Github`, `Android Studio`
-
-## 📕 Latest Blog Posts
-
-- [DEV Community Profile](https://dev.to/jaamaal95)
-- [Medium.com Profile](https://jaamaal95.medium.com)
-
-## 🔄 Find Me on Social Media
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/jaamaal/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jaamaal95?label=Follow&style=social)](https://twitter.com/jaamaal95)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jaamaal95/)
-
-## 📊 Github Stat's
-![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)  
+<p>
+<a href="https://dev.to/jaamaal95"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+<a href="https://twitter.com/jaamaal95" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
+<a href="https://stackoverflow.com/users/6542943/md-jamal-uddin"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
+<a href="https://www.linkedin.com/in/jaamaal95/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jamal.pb95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jamal.pb95@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
