@@ -3,11 +3,11 @@
 ### 👨🏻‍💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing web & mobile applications.
-- 🎓 &nbsp; Undergrade Computer Science Student at IUS
 - 💼 &nbsp; Working as a Software Developer
-- 👨‍💻 &nbsp; Checkout my work at https://jaamaal.com
-- 📝 &nbsp; Try to write articles on [my blog](https://jaamaal.com/blog), [Dev.to](https://dev.to/jaamaal95) and [Medium.com](https://medium.com/@jaamaal95)
-- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
+- 🎓 &nbsp; Undergrade Computer Science Student at [IUS](https://ius.edu.bd/)
+- 👨‍💻 &nbsp; Checkout my work at [https://jaamaal.com](https://jaamaal.vercel.app/)
+- 📝 &nbsp; Try to write articles on [my blog](https://jaamaal.vercel.app/blog), [Dev.to](https://dev.to/jaamaal95) and [Medium.com](https://medium.com/@jaamaal95)
+- 🌱 &nbsp; Learning more about `DevOps`, `Frontend` and `Backend` technologies.
 - 📫 &nbsp; How to reach me: jamal.pb95@gmail.com
 
 ### 🛠 Tech Stack
