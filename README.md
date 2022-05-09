@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jaamaal95)
-
 ## Hey there! This is Md. Jamal Uddin (@jaamaal)
 
 ### 👨🏻‍💻 About Me
