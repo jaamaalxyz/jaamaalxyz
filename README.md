@@ -12,10 +12,10 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; JavaScript | TypeScript | Node.js | Express.js | Python | C++
-- 🌐 &nbsp; React | Redux| Next.js | Tailwind CSS | Chakra UI
-- 🛢 &nbsp; Oracle DB | MySQL | MongoDB
-- 🖥 &nbsp; VS Code | Ubuntu | Oracle Linux
+- 💻 &nbsp; `JavaScript` | `TypeScript` | `Node.js` | `Express.js` | `Python` | `C++`
+- 🌐 &nbsp; `React` | `Redux` | `Next.js` | `React Native` | `Tailwind CSS` | `Chakra UI`
+- 🛢 &nbsp; `Oracle DB` | `MySQL` | `MongoDB`
+- 🖥 &nbsp; `VS Code` | `Ubuntu` | `Oracle Linux`
 
 ### 📊 Github Stat's
 ![jaamaal95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaal95&show_icons=true&theme=github_dark)
