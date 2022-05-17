@@ -6,7 +6,7 @@
 - 💼 &nbsp; Working as a Software Developer
 - 🎓 &nbsp; Undergrade Computer Science Student at [IUS](https://ius.edu.bd/)
 - 👨‍💻 &nbsp; Checkout my work at [https://jaamaal.com](https://jaamaal.vercel.app/)
-- 📝 &nbsp; Try to write articles on [my blog](https://jaamaal.vercel.app/blog), [Dev.to](https://dev.to/jaamaal95) and [Medium.com](https://medium.com/@jaamaal95)
+- 📝 &nbsp; Try to write articles on [my blog](https://jaamaal.vercel.app/blog), [Dev.to](https://dev.to/jaamaal95), [Hashnode](https://jaamaal95.hashnode.dev/) and [Medium.com](https://medium.com/@jaamaal95)
 - 🌱 &nbsp; Learning more about `DevOps`, `Frontend` and `Backend` technologies.
 - 📫 &nbsp; How to reach me: jamal.pb95@gmail.com
 
