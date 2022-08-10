@@ -3,12 +3,12 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing web & mobile applications.
-- 💼 &nbsp; Working as a Software Developer
+- 🤔 &nbsp; Developing web & mobile applications.
+- 💼 &nbsp; Working as a Full Stack Software Developer - React (Native) | Node.js | TypeScript
 - 🎓 &nbsp; Undergrade Computer Science Student at [IUS](https://ius.edu.bd/)
-- 👨‍💻 &nbsp; Checkout my work at [https://jaamaalxyz.github.io](https://jaamaalxyz.github.io/)
+- 👨‍💻 &nbsp; Checkout my portfolio [https://jaamaal.com](https://jaamaal.com/)
 - 📝 &nbsp; Try to write articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
-- 🌱 &nbsp; Learning more about `Fullstack Software Development` from start to deployment.
+- 🌱 &nbsp; Learning more about `Fullstack Software Development` from scratch to deployment.
 - 📫 &nbsp; How to reach me: jaamaalxyz@gmail.com
 
 ### 🛠 Tech Stack
