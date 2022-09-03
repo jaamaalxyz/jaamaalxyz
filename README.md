@@ -3,20 +3,19 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Developing web & mobile applications.
-- 💼 &nbsp; Working as a Full Stack Software Developer - React (Native) | Node.js | TypeScript
-- 🎓 &nbsp; Undergrade Computer Science Student at [IUS](https://ius.edu.bd/)
-- 👨‍💻 &nbsp; Checkout my portfolio [https://jaamaal.com](https://jaamaal.com/)
-- 📝 &nbsp; Try to write articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
-- 🌱 &nbsp; Learning more about `Fullstack Software Development` from scratch to deployment.
-- 📫 &nbsp; How to reach me: jaamaalxyz@gmail.com
+- 🤔 &nbsp; Developing 🌐 & 📱 applications.
+- 💼 &nbsp; Working as a Full Stack Software Engineer - React (Native) | Node.js | TypeScript
+- 👨‍💻 &nbsp; Visit my portfolio [https://jaamaal.com](https://jaamaal.com/)
+- 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
+- 🌱 &nbsp; Currently Learning `Cross Platform Mobile App Development`
+- 📫 &nbsp; Reach me: jaamaalxyz@gmail.com
 
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; `JavaScript` | `TypeScript` | `Node.js` | `Express.js` | `C` | `C++`
-- 🌐 &nbsp; `React` | `Redux` | `Next.js` | `React Native` | `Tailwind CSS` | `Chakra UI`
-- 🛢 &nbsp; `Oracle DB` | `MySQL` | `MongoDB`
-- 🖥 &nbsp; `VS Code` | `Ubuntu` | `Oracle Linux`
+- 🌐 &nbsp; `React` | `Redux` | `Next.js` | `React Native` | `Apollo` | `GraphQL`
+- 🛢 &nbsp; `Oracle DB` | `MySQL` | `MongoDB` | `PostgreSQL`
+- 🖥 &nbsp; `VS Code` | `Microsoft Windows`| `Linux`
 
 ### 📊 Github Stat's
 ![jaamaalxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaalxyz&show_icons=true&theme=github_dark)
