@@ -3,8 +3,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Developing 🌐 & 📱 applications.
 - 💼 &nbsp; Working as a Full Stack Software Engineer - React (Native) | Node.js | TypeScript
+- 🤔 &nbsp; Building 🌐 & 📱 applications.
 - 👨‍💻 &nbsp; Visit my portfolio [https://jaamaal.com](https://jaamaal.com/)
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 🌱 &nbsp; Currently Learning `Cross Platform Mobile App Development`
