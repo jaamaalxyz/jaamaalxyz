@@ -1,9 +1,9 @@
-## Hey there! 
+#### Hey there! 
 ## This is Md. Jamal Uddin
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer` - `React` (`Native`) | `Node.js` | `TypeScript`
+- 💼 &nbsp; Working as a `Full Stack Software Engineer`
 - 🤔 &nbsp; Building 🌐 & 📱 applications.
 - 👨‍💻 &nbsp; Visit my portfolio [https://jaamaal.com](https://jaamaal.com/)
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
@@ -12,10 +12,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; `JavaScript` | `TypeScript` | `Node.js` | `Express.js` | `C` | `C++`
-- 🌐 &nbsp; `React` | `Redux` | `Next.js` | `React Native` | `Apollo` | `GraphQL`
-- 🛢 &nbsp; `Oracle DB` | `MySQL` | `MongoDB` | `PostgreSQL`
-- 🖥 &nbsp; `VS Code` | `Microsoft Windows`| `Linux`
+`JavaScript` | `TypeScript` | `Node.js` | `Express.js` | `React` | `Redux` | `Next.js` | `React Native` | `MongoDB` | `PostgreSQL` | `Oracle DB` | `MySQL` | `VS Code` | `C` | `C++`
 
 ### 📊 Github Stat's
 ![jaamaalxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaalxyz&show_icons=true&theme=github_dark)
