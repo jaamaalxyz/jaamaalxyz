@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN @ ShellBeeHaken Ltd.`
+- 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🤔 &nbsp; Building Web & Cross Platform Mobile applications
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 🌱 &nbsp; Currently Learning `Cross Platform Mobile App Development`
