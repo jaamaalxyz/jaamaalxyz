@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Developing `Web & Cross Platform Mobile` applications
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 🌱 &nbsp; Currently Learning [Eloquent JavaScript](https://eloquentjavascript.net/) 3rd Edition, Written by `Marijn Haverbeke`
-- 👨‍💻 &nbsp; Want to know more about me: [https://jaamaal.com](https://jaamaal.com/)
+- 👨‍💻 &nbsp; Want to know more about me: [jaamaal.com](https://jaamaal.com/)
 - 📫 &nbsp; Reach me: jaamaalxyz@gmail.com
 
 ### 🛠 Tech Stack
