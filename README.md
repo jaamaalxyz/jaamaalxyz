@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer`
+- 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN @ ShellBeeHaken Ltd.`
 - 🤔 &nbsp; Building 🌐 & 📱 applications.
 - 👨‍💻 &nbsp; Visit my portfolio [https://jaamaal.com](https://jaamaal.com/)
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
