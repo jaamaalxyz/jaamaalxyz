@@ -4,10 +4,10 @@
 ### 👨🏻‍💻 About Me
 
 - 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN @ ShellBeeHaken Ltd.`
-- 🤔 &nbsp; Building 🌐 & 📱 applications.
-- 👨‍💻 &nbsp; Visit my portfolio [https://jaamaal.com](https://jaamaal.com/)
+- 🤔 &nbsp; Building Web & Cross Platform Mobile applications
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 🌱 &nbsp; Currently Learning `Cross Platform Mobile App Development`
+- 👨‍💻 &nbsp; Want to know more about me: [https://jaamaal.com](https://jaamaal.com/)
 - 📫 &nbsp; Reach me: jaamaalxyz@gmail.com
 
 ### 🛠 Tech Stack
