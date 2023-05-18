@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `Next.js` | `MongoDB` | `JavaScript` | `Node.js` | `Express.js` | `VS Code` | `Oracle DB` | `MySQL` | `TypeScript`
+`React` | `React Native` | `Redux` | `Next.js` | `MongoDB` | `JavaScript` | `Node.js` | `Express.js` | `VS Code` | `MySQL` | `TypeScript`
 
 ### 📊 Github Stat's
 ![jaamaalxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamaalxyz&show_icons=true&theme=github_dark)
