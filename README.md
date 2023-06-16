@@ -14,9 +14,6 @@
 
 `React` | `React Native` | `Redux` | `Next.js` | `MongoDB` | `JavaScript` | `Node.js` | `Express.js` | `VS Code` | `MySQL` | `TypeScript`
 
-### 📊 Github Stat's
-<a href="https://app.daily.dev/jaamaalxyz"><img src="https://api.daily.dev/devcards/ac70672a9ff24a19af05a20515a0bf8c.png?r=zwg" width="400" alt="Md. Jamal Uddin's Dev Card"/></a>
-
 
 [![](https://komarev.com/ghpvc/?username=jaamaalxyz&color=blue&label=Profile%20Views)](https://github.com/jaamaalxyz/jaamaalxyz)
 [![](https://img.shields.io/github/followers/jaamaalxyz?label=GitHub%20Followers)](https://github.com/jaamaalxyz)
