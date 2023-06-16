@@ -14,6 +14,7 @@
 
 `React` | `React Native` | `Redux` | `Next.js` | `MongoDB` | `JavaScript` | `Node.js` | `Express.js` | `VS Code` | `MySQL` | `TypeScript`
 
+### 📊 Stats
 
 [![](https://komarev.com/ghpvc/?username=jaamaalxyz&color=blue&label=Profile%20Views)](https://github.com/jaamaalxyz/jaamaalxyz)
 [![](https://img.shields.io/github/followers/jaamaalxyz?label=GitHub%20Followers)](https://github.com/jaamaalxyz)
