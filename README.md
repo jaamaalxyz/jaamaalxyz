@@ -16,8 +16,6 @@
 
 ### 📊 Stats
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b029465f038d81eeaff1bd?variant=dark)](https://roadmap.sh)
-
 [![](https://komarev.com/ghpvc/?username=jaamaalxyz&color=blue&label=Profile%20Views)](https://github.com/jaamaalxyz/jaamaalxyz)
 [![](https://img.shields.io/github/followers/jaamaalxyz?label=GitHub%20Followers)](https://github.com/jaamaalxyz)
 
