@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 About Me
 
 - 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
-- 🏗️ &nbsp; Developing Cross-Platform `Android` & `iOS` Mobile applications
+- 🏗️ &nbsp; Developing Cross-Platform Mobile applications
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 🌱 &nbsp; Currently Learning [Eloquent JavaScript](https://eloquentjavascript.net/) 3rd Edition, Written by `Marijn Haverbeke`
 - 👨‍💻 &nbsp; Want to know more about me, please visit my [LinkedIn](https://www.linkedin.com/in/jaamaalxyz/) profile
