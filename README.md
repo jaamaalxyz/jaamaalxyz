@@ -3,23 +3,23 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer, MERN` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
-- 🏗️ &nbsp; Developing Cross-Platform Mobile apps using `React Native`
+- 💼 &nbsp; Working as a `Full Stack Software Engineer` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 🏗️ &nbsp; Developing Cross-Platform Mobile apps with `React Native`
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
-- 🌱 &nbsp; Currently Reading `Secrets of the JavaScript Ninja` 2nd Edition by `John Resig`, `Bear Bibeault`, and `Josip Maras`
-- 👨‍💻 &nbsp; Want to know more about me, please visit my [LinkedIn](https://www.linkedin.com/in/jaamaalxyz/) profile
-- 📫 &nbsp; Reach me: jaamaalxyz@gmail.com
+- 📖 &nbsp; Reading `Secrets of the JavaScript Ninja` 2nd Edition by `John Resig`, `Bear Bibeault`, and `Josip Maras`
+- 👨‍💻 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/jaamaalxyz/) for professional updates
+- 📫 &nbsp; Shoot me an email: [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com) for anything
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `Next.js` | `MongoDB` | `JavaScript` | `Node.js` | `Express.js` | `VS Code` | `MySQL` | `TypeScript`
+`React` | `React Native` | `Redux` | `JavaScript` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript`
 
 ### 📊 Stats
 
 [![](https://komarev.com/ghpvc/?username=jaamaalxyz&color=blue&label=Profile%20Views)](https://github.com/jaamaalxyz/jaamaalxyz)
 [![](https://img.shields.io/github/followers/jaamaalxyz?label=GitHub%20Followers)](https://github.com/jaamaalxyz)
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Social Media Profile
 
 <p>
 <a href="https://dev.to/jaamaalxyz"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
