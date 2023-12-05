@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `JavaScript` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript`
+`React` | `React Native` | `Expo` | `Redux` | `JavaScript` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript`
 
 ### 📊 Stats
 
