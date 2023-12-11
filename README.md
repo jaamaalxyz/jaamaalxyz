@@ -2,7 +2,7 @@
 
 ## This is Md. Jamal Uddin
 
-Software engineer passionate about building and delivering SaaS apps using React Native. An agile enthusiast who occasionally writes a blog about life and tech experiences.
+An experienced self-taught product engineer, passionate about building and delivering SaaS apps using **React Native** and **Expo**. An **agile** enthusiast who occasionally writes a **blog** about **life** and **tech** experiences.
 
 ### 👨🏻‍💻 About Me
 
