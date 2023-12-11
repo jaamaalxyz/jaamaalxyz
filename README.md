@@ -2,11 +2,11 @@
 
 ## This is Md. Jamal Uddin
 
-A product minded self-thought software engineer
+Software engineer passionate about building and delivering SaaS apps using React Native. An agile enthusiast who occasionally writes a blog about life and tech experiences.
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 💼 &nbsp; Working as a `Full Stack Software Engineer` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🏗️ &nbsp; Developing Cross-Platform Mobile apps with `React Native` and `Expo`
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
 - 📖 &nbsp; Learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/tutorials/swiftui) to better understand the iOS App Development
