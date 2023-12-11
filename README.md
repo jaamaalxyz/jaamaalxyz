@@ -1,12 +1,15 @@
-#### Hey there! 
+#### Hey there!
+
 ## This is Md. Jamal Uddin
+
+A product minded self-thought software engineer
 
 ### 👨🏻‍💻 About Me
 
 - 💼 &nbsp; Working as a `Full Stack Software Engineer` @ [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🏗️ &nbsp; Developing Cross-Platform Mobile apps with `React Native` and `Expo`
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
-- 📖 &nbsp; Reading `Secrets of the JavaScript Ninja` 2nd Edition by `John Resig`, `Bear Bibeault`, and `Josip Maras`
+- 📖 &nbsp; Learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/tutorials/swiftui) to better understand the iOS App Development
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/jaamaalxyz/) for professional updates
 - 📫 &nbsp; Shoot me an email at [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com) for anything
 
