@@ -15,7 +15,7 @@ An experienced self-taught product engineer, passionate about building and deliv
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Expo` | `Redux` | `JavaScript` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript`
+`React` | `React Native` | `Expo` | `Redux` | `JavaScript` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript` | `Android Studio` | `Xcode`
 
 ### 📊 Stats
 
