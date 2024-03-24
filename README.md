@@ -9,7 +9,7 @@ An experienced self-taught product engineer, passionate about building and deliv
 - 💼 &nbsp; Working as a `Full Stack Software Engineer` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🏗️ &nbsp; Developing Cross-Platform Mobile apps with `React Native` and `Expo`
 - 📝 &nbsp; Writing articles on [Medium.com](https://medium.com/@jaamaalxyz) and [Dev.to](https://dev.to/jaamaalxyz)
-- 📖 &nbsp; Learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/tutorials/swiftui) to better understand the iOS App Development
+- 📖 &nbsp; Learning [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/tutorials/swiftui) for iOS App Development
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/jaamaalxyz/) for professional updates
 - 📫 &nbsp; Shoot me an email at [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com) for anything
 
