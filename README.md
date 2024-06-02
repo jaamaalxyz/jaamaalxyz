@@ -17,7 +17,7 @@ Proficient in **React, React Native, JavaScript, SQL/NoSQL Databases**, and vari
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `JavaScript` | `Expo` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript` | `Android Studio` | `Xcode` | `SQL` | `Oracle` | `Git` | `GitHub` | `BitBucket` |
+`React` | `React Native` | `Redux` | `JavaScript` | `Expo` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript` | `Android Studio` | `Xcode` | `SQL` | `Oracle` | `Git` | `GitHub` | `BitBucket`
 
 ### 📊 Stats
 
