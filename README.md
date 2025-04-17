@@ -2,16 +2,14 @@
 
 ## This is Md. Jamal Uddin
 
-I am an experienced **product engineer** with a proven track record in developing cross-platform applications using **React/React Native**.
-Skilled in leading a **dynamic team, implementing agile methodologies to consistently deliver top-notch applications** for growing businesses.
-Proficient in **React, React Native, JavaScript, SQL/NoSQL Databases**, and various relevant domains, with a demonstrated history of producing high-quality results.
+Mobile-first software engineer with 5+ years of experience in cross-platform app development using __React Native__, __Redux__, and Expo, with working knowledge of Node.js and __TypeScript__. Known for delivering production-grade mobile apps, leading sprint rituals, and integrating complex systems like __Stripe__, bKash, and CI/CD pipelines. Strong grasp of agile principles, testing, and scalable architectures.
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
-- 🏗️ &nbsp; Developing Cross-Platform mobile and web applications
-- 📝 &nbsp; Writing technical articles on [my blog](https://jaamaal.com/blog)
-- 📖 &nbsp; Learning how to write better test cases for React and React Native apps
+- 💼 &nbsp; Working as a `Software Engineer (React Native)` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 🏗️ &nbsp; Developing Cross-Platform mobile applications
+- 📝 &nbsp; Writing technical articles on [Medium](https://medium.com/@jaamaalxyz)
+- 📖 &nbsp; Learning how to write better test cases for React Native apps using [React Native Testing Library](https://github.com/callstack/react-native-testing-library) and [Jest](https://jestjs.io/)
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://linkedin.com/in/jaamaalxyz/)
 - 📫 &nbsp; Email me at [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com)
 
