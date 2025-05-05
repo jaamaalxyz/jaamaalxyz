@@ -2,7 +2,7 @@
 
 ## This is Md. Jamal Uddin
 
-Software engineer with 5+ years of experience in cross-platform app development using __React/React Native__, __Redux__, and __Next.js__, with working knowledge of __Node.js__ and __TypeScript__. Known for delivering production-grade solutions, leading sprint rituals, and integrating complex systems and CI/CD pipelines. Strong grasp of agile principles, testing, and scalable architectures.
+Software engineer with 5+ years of experience in cross-platform solution development using __React/React Native__, __Redux__, and __Next.js__, with working knowledge of __Node.js__ and __TypeScript__. Known for delivering production-grade solutions, leading sprint rituals, and integrating complex systems and CI/CD pipelines. Strong grasp of agile principles, testing, and scalable architectures.
 
 ### 👨🏻‍💻 About Me
 
