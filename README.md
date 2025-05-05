@@ -2,20 +2,20 @@
 
 ## This is Md. Jamal Uddin
 
-Mobile-first software engineer with 5+ years of experience in cross-platform app development using __React Native__, __Redux__, and Expo, with working knowledge of Node.js and __TypeScript__. Known for delivering production-grade mobile apps, leading sprint rituals, and integrating complex systems like __Stripe__, bKash, and CI/CD pipelines. Strong grasp of agile principles, testing, and scalable architectures.
+Software engineer with 5+ years of experience in cross-platform app development using __React/React Native__, __Redux__, and __Next.js__, with working knowledge of __Node.js__ and __TypeScript__. Known for delivering production-grade solutions, leading sprint rituals, and integrating complex systems and CI/CD pipelines. Strong grasp of agile principles, testing, and scalable architectures.
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Software Engineer (React Native)` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
-- 🏗️ &nbsp; Developing Cross-Platform mobile applications
+- 💼 &nbsp; Working as a `Full Stack Software Engineer` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 🏗️ &nbsp; Developing cross-platform solutions
 - 📝 &nbsp; Writing technical articles on [Medium](https://medium.com/@jaamaalxyz)
-- 📖 &nbsp; Learning how to write better test cases for React Native apps using [React Native Testing Library](https://github.com/callstack/react-native-testing-library) and [Jest](https://jestjs.io/)
+- 📖 &nbsp; Learning how to write better test cases
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://linkedin.com/in/jaamaalxyz/)
 - 📫 &nbsp; Email me at [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com)
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `JavaScript` | `Expo` | `Node.js` | `Next.js` | `MongoDB` |`Express.js` | `VS Code` | `TypeScript` | `Android Studio` | `Xcode` | `SQL` | `Oracle` | `Git` | `GitHub` | `BitBucket`
+`React` | `React Native` | `Redux` | `Next.js` | `TypeScript` | `Git`
 
 ### 📊 Stats
 
