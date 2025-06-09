@@ -6,7 +6,7 @@ Software engineer with 5+ years of experience in cross-platform solution develop
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a `Full Stack Software Engineer` at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 💼 &nbsp; Working as a **Full Stack Software Engineer** at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🏗️ &nbsp; Developing cross-platform solutions
 - 📝 &nbsp; Writing technical articles on [Medium](https://medium.com/@jaamaalxyz)
 - 📖 &nbsp; Learning how to write better test cases
