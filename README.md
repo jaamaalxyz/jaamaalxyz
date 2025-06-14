@@ -6,7 +6,7 @@ I'm a **Full Stack Software Engineer** with over 5 years of experience building 
 
 I thrive in agile environments where collaboration, clean architecture, and continuous delivery drive results. My experience includes leading sprint ceremonies, integrating complex third-party systems, setting up CI/CD pipelines, and deploying production-grade apps that serve real human needs.
 
-Lately, I'm exploring the possibilities of Generative AI, with a keen interest in how it can enhance product development and user experience.
+Lately, I'm exploring the possibilities of **Generative AI**, with a keen interest in how it can enhance product development and user experience.
 
 ### 👨🏻‍💻 About Me
 
