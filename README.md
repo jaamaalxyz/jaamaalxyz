@@ -2,7 +2,7 @@
 
 ## This is Md. Jamal Uddin
 
-Full Stack Software Engineer with 5+ years of experience building user-centric web and mobile applications using **React**, **React Native**, **Redux**, and **Next.js**. Proficient in **TypeScript** and **Node.js**, with a proven track record of delivering scalable, production-ready solutions. Experienced in leading agile ceremonies, integrating complex third-party systems, and setting up CI/CD pipelines. Strong foundation in software architecture, testing, and collaborative development in cross-functional teams.
+Full Stack Software Engineer at ShellBeeHaken Ltd. | Exploring Generative AI | Building user-centric web and mobile apps with React, React Native, and Next.js
 
 ### 👨🏻‍💻 About Me
 
