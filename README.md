@@ -2,7 +2,7 @@
 
 ## This is Md. Jamal Uddin
 
-I'm a Full Stack Software Engineer with over 5 years of experience building robust, user-focused web and mobile applications. I specialize in **React**, **React Native**, **Next.js**, and **TypeScript** to deliver scalable, maintainable solutions across platforms.
+I'm a **Full Stack Software Engineer** with over 5 years of experience building robust, user-focused web and mobile applications. I specialize in **React**, **React Native**, **Next.js**, and **TypeScript** to deliver scalable, maintainable solutions across platforms.
 
 I thrive in agile environments where collaboration, clean architecture, and continuous delivery drive results. My experience includes leading sprint ceremonies, integrating complex third-party systems, setting up CI/CD pipelines, and deploying production-grade apps that serve real human needs.
 
