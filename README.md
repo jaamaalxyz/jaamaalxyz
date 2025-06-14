@@ -19,7 +19,7 @@ Lately, I'm exploring the possibilities of **Generative AI**, with a keen intere
 
 ### 🛠 Tech Stack
 
-`React` | `React Native` | `Redux` | `Next.js` | `TypeScript` | `Git`
+`React` | `React Native` | `Next.js` | `Redux` | `TypeScript` | `Git` | `AWS` | `Node.js` | `Gen AI`
 
 ### 📊 Stats
 
