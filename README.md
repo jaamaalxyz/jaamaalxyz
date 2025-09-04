@@ -3,6 +3,7 @@
 ## This is Md. Jamal Uddin
 
 Senior Full Stack Software Engineer | 7+ Years | Team Leader
+
 I build scalable, user-focused applications that solve real business problems. Currently leading development teams at ShellBeeHaken Ltd., I've progressed from network troubleshooting to architecting modern React-based systems.
 
 ### 👨🏻‍💻 About Me
