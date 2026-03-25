@@ -2,7 +2,7 @@
 
 ## This is Md. Jamal Uddin
 
-**Software Engineer-II | 7+ Years | Team Leader**
+**Senior Software Engineer | Team Leader | Product Builder**
 
 I build scalable, user-focused applications that solve real business problems. Currently leading development teams at ShellBeeHaken Ltd., I've progressed from network troubleshooting to architecting modern React-based systems along with Generative AI capabilities and AWS cloud technologies.
 
