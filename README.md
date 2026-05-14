@@ -4,17 +4,13 @@
 
 **Senior Software Engineer | Team Leader | Product Builder**
 
-I build scalable, user-focused applications that solve real business problems. Currently leading development teams at ShellBeeHaken Ltd., I've progressed from network troubleshooting to architecting modern React-based systems along with Generative AI capabilities and AWS cloud technologies.
+I build scalable, user-focused applications that solve real business problems.
 
 ### 👨🏻‍💻 About Me
 
-- 💼 &nbsp; Working as a **Software Engineer-II** at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
+- 💼 &nbsp; **Software Engineer-II** at [ShellBeeHaken Ltd.](https://shellbeehaken.com/)
 - 🏗️ &nbsp; Developing distributed, cross-platform solutions for web and mobile.
-- 📝 &nbsp; Writing technical articles on [Medium](https://medium.com/@jaamaalxyz)
+- 📝 &nbsp; Writing my understanding on [Clarviq AI](https://clarviq-ai.com)
 - 📖 &nbsp; Exploring Generative AI capabilities to improve product development and human lives through innovation.
 - 👨‍💻 &nbsp; Connect me on [LinkedIn](https://linkedin.com/in/jaamaalxyz/)
 - 📫 &nbsp; Email me at [jaamaalxyz@gmail.com](mailto:jaamaalxyz@gmail.com)
-
-### 🛠 Tech Stack
-
-`Generative AI` | `React` | `React Native` | `Next.js` | `Redux` | `TypeScript` | `Git` | `AWS` | `Node.js` | `Express.js` | `Jest`
